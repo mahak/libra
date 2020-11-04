@@ -271,7 +271,7 @@ dependencies = [
  "serde",
  "serde_json",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tokio",
  "tokio-util",
  "toml",
@@ -717,7 +717,7 @@ dependencies = [
  "rust_decimal",
  "rustyline",
  "serde",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tokio",
  "transaction-builder",
  "walkdir",
@@ -793,7 +793,7 @@ dependencies = [
  "serde_json",
  "serde_yaml",
  "state-synchronizer",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "termion",
  "tokio",
  "toml",
@@ -874,7 +874,7 @@ dependencies = [
  "libra-workspace-hack",
  "move-ir-types",
  "serde_json",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
 ]
 
@@ -1207,7 +1207,7 @@ version = "0.1.0"
 dependencies = [
  "libra-workspace-hack",
  "regex",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "termcolor",
  "walkdir",
 ]
@@ -1226,7 +1226,7 @@ dependencies = [
  "libra-workspace-hack",
  "libradb",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
 ]
 
 [[package]]
@@ -1361,7 +1361,7 @@ dependencies = [
  "move-core-types",
  "move-coverage",
  "move-ir-types",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
 ]
 
@@ -1605,7 +1605,7 @@ dependencies = [
  "storage-client",
  "storage-interface",
  "storage-service",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "transaction-builder",
 ]
 
@@ -1894,7 +1894,7 @@ dependencies = [
  "serde",
  "serde-reflection",
  "serde_yaml",
- "structopt 0.3.18",
+ "structopt 0.3.20",
 ]
 
 [[package]]
@@ -1936,7 +1936,7 @@ dependencies = [
  "libra-types",
  "libra-workspace-hack",
  "resource-viewer",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
  "vm-genesis",
 ]
@@ -2787,7 +2787,7 @@ dependencies = [
  "serde-generate",
  "serde-reflection",
  "serde_yaml",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
 ]
 
@@ -2804,7 +2804,7 @@ dependencies = [
  "libra-validator-interface",
  "libra-workspace-hack",
  "reqwest",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tokio",
 ]
 
@@ -2828,7 +2828,7 @@ dependencies = [
  "serde",
  "serde_derive",
  "serde_json",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
  "tokio",
  "transaction-builder-generated",
@@ -2884,7 +2884,7 @@ dependencies = [
  "state-synchronizer",
  "stats_alloc",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "ureq",
  "vm",
 ]
@@ -2915,7 +2915,7 @@ dependencies = [
  "rand 0.7.3",
  "serde",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "thiserror",
  "toml",
  "transaction-builder",
@@ -3141,7 +3141,7 @@ dependencies = [
  "serde",
  "serde_yaml",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "thiserror",
  "toml",
  "transaction-builder",
@@ -3287,7 +3287,7 @@ dependencies = [
  "storage-client",
  "storage-interface",
  "storage-service",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "subscription-service",
  "tokio",
 ]
@@ -3318,7 +3318,7 @@ dependencies = [
  "serde",
  "serde_json",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "thiserror",
  "toml",
  "transaction-builder",
@@ -3448,7 +3448,7 @@ dependencies = [
  "libra-workspace-hack",
  "libradb",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
  "transaction-builder",
 ]
@@ -3467,7 +3467,7 @@ dependencies = [
  "libra-types",
  "libra-workspace-hack",
  "reqwest",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "thiserror",
 ]
 
@@ -3493,7 +3493,7 @@ dependencies = [
  "reqwest",
  "serde",
  "serde_json",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tokio",
 ]
 
@@ -3518,7 +3518,7 @@ dependencies = [
  "move-vm-types",
  "resource-viewer",
  "stdlib",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
  "vm-genesis",
 ]
@@ -3666,7 +3666,7 @@ dependencies = [
  "serde",
  "serde_json",
  "stdlib",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
 ]
 
@@ -3714,7 +3714,7 @@ dependencies = [
  "serde",
  "serde_json",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
 ]
 
 [[package]]
@@ -3770,7 +3770,7 @@ dependencies = [
  "channel",
  "futures 0.3.6",
  "libra-workspace-hack",
- "structopt 0.3.18",
+ "structopt 0.3.20",
 ]
 
 [[package]]
@@ -3960,7 +3960,7 @@ dependencies = [
  "move-vm-types",
  "resource-viewer",
  "stdlib",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
  "vm-genesis",
 ]
@@ -4007,7 +4007,7 @@ dependencies = [
  "once_cell",
  "petgraph",
  "serde",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
 ]
 
@@ -4020,7 +4020,7 @@ dependencies = [
  "libra-canonical-serialization",
  "libra-workspace-hack",
  "move-core-types",
- "structopt 0.3.18",
+ "structopt 0.3.20",
 ]
 
 [[package]]
@@ -4058,7 +4058,7 @@ dependencies = [
  "move-ir-types",
  "petgraph",
  "regex",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
  "vm",
  "walkdir",
@@ -5829,7 +5829,7 @@ dependencies = [
  "rand 0.7.3",
  "serde_yaml",
  "storage-interface",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "thiserror",
  "transaction-builder",
  "vm-genesis",
@@ -5873,7 +5873,7 @@ dependencies = [
  "serde-reflection",
  "serde_bytes",
  "serde_yaml",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "textwrap 0.12.1",
 ]
 
@@ -6453,13 +6453,13 @@ dependencies = [
 
 [[package]]
 name = "structopt"
-version = "0.3.18"
+version = "0.3.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a33f6461027d7f08a13715659b2948e1602c31a3756aeae9378bfe7518c72e82"
+checksum = "126d630294ec449fae0b16f964e35bf3c74f940da9dca17ee9b905f7b3112eb8"
 dependencies = [
  "clap",
  "lazy_static",
- "structopt-derive 0.4.11",
+ "structopt-derive 0.4.13",
 ]
 
 [[package]]
@@ -6476,9 +6476,9 @@ dependencies = [
 
 [[package]]
 name = "structopt-derive"
-version = "0.4.11"
+version = "0.4.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c92e775028122a4b3dd55d58f14fc5120289c69bee99df1d117ae30f84b225c9"
+checksum = "65e51c492f9e23a220534971ff5afc14037289de430e3c83f9daf6a1b6ae91e8"
 dependencies = [
  "heck",
  "proc-macro-error",
@@ -6522,7 +6522,7 @@ dependencies = [
  "rand 0.7.3",
  "serde",
  "serde_json",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "transaction-builder",
 ]
 
@@ -6649,7 +6649,7 @@ dependencies = [
  "move-vm-types",
  "num_cpus",
  "rand 0.7.3",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "vm",
 ]
 
@@ -6974,7 +6974,7 @@ dependencies = [
  "serde-generate",
  "serde-reflection",
  "serde_yaml",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "tempfile",
  "textwrap 0.12.1",
  "which 4.0.2",
@@ -7498,7 +7498,7 @@ dependencies = [
  "log",
  "serde",
  "serde_json",
- "structopt 0.3.18",
+ "structopt 0.3.20",
  "toml",
  "x-core",
  "x-lint",
